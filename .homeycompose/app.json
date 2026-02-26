@@ -4,10 +4,6 @@
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "brandColor": "#ad934e",
-  /* 
-    brandColor: # brownish --colors-text-link used by yoolax homepage
-    "bg": "#fbfcf7", # off-white --background-color used by yoolax homepage, but results in error: 'The color defined in `brandColor` is too bright. Icons are rendered white, so choose a darker color that has enough contrast.'
-  */
   "platforms": [
     "local"
   ],
