@@ -1,3 +1,6 @@
+[https://www.yoolax.com/  
+![Yoolax logo](assets/icon_256.png "Yoolax logo")
+](https://www.yoolax.com/collections/roller-shades/products/motorized-blackout-roller-shades-v-series?option-value=%257B%2522Power%2520Type%2522%253A%2522Zigbee%2520Motor%2520%255BZ425%255D%2522%252C%2522Extended%2520Motor%2520Service%2522%253A%25223-Year%2520Limited%2520Warranty%2522%252C%2522ymq_product_quantity%2522%253A1%257D)
 # Yoolax Zigbee Module
 
 Adds support for Yoolax shades with a Zigbee module.
